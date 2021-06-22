@@ -9,4 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
     // edit from link2yao local
+    
+    // edit from link2yao Github
 }
